@@ -1,10 +1,9 @@
 Core domain chart:
-![img.png](img.png)
-
-![img_2.png](img_2.png)
+![core_domain_chart.png](core_domain_chart.png)
+![table.png](table.png)
 
 Связанные контексты(Модель):
-![img_1.png](img_1.png)
+![bounded_context.png](bounded_context.png)
 
 было:
 менеджмент платформы
